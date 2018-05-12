@@ -1,0 +1,77 @@
+/* font-family: 'Patrick Hand', cursive;
+font-family: 'Yellowtail', cursive;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Cormorant Garamond', serif; */
+/* ---------------- */
+
+header{
+    margin-top: 30px;
+    width:901px;
+    margin:45px auto;
+    height: 100px;
+
+    
+}
+
+header img{
+    float:left;
+}
+
+nav li{
+    display: inline-block;
+
+}
+
+nav ul{
+    float:right;
+    margin-top: 10px;
+    vertical-align: text-top;
+
+}
+
+
+header dl {
+    float:left;
+    margin-left: 10px;
+}
+
+header dt {
+    font-family: 'Yellowtail', cursive;
+    font-size: 32px;
+
+
+}
+header dd {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: 11px;
+
+}
+
+hr {
+    clear: both;
+
+}
+main {
+    width:901px;
+    margin:45px auto;
+}
+h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+    
+
+}
+ main p{
+
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+main #print{
+    float:right;
+    margin-top: 10px;
+    vertical-align: text-top;
+    width:40px;
+}
